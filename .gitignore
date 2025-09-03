@@ -1,0 +1,13 @@
+# python
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+
+# data
+*.csv
+
+# OS/editor
+.DS_Store
+.vscode/
